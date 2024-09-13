@@ -1,0 +1,15 @@
+/home/thedegeo/git/linkedListch/obj/Debug/net8.0/linkedListch.GeneratedMSBuildEditorConfig.editorconfig
+/home/thedegeo/git/linkedListch/obj/Debug/net8.0/linkedListch.AssemblyInfoInputs.cache
+/home/thedegeo/git/linkedListch/obj/Debug/net8.0/linkedListch.AssemblyInfo.cs
+/home/thedegeo/git/linkedListch/obj/Debug/net8.0/linkedListch.csproj.CoreCompileInputs.cache
+/home/thedegeo/git/linkedListch/obj/Debug/net8.0/linkedListch.sourcelink.json
+/home/thedegeo/git/linkedListch/bin/Debug/net8.0/linkedListch
+/home/thedegeo/git/linkedListch/bin/Debug/net8.0/linkedListch.deps.json
+/home/thedegeo/git/linkedListch/bin/Debug/net8.0/linkedListch.runtimeconfig.json
+/home/thedegeo/git/linkedListch/bin/Debug/net8.0/linkedListch.dll
+/home/thedegeo/git/linkedListch/bin/Debug/net8.0/linkedListch.pdb
+/home/thedegeo/git/linkedListch/obj/Debug/net8.0/linkedListch.dll
+/home/thedegeo/git/linkedListch/obj/Debug/net8.0/refint/linkedListch.dll
+/home/thedegeo/git/linkedListch/obj/Debug/net8.0/linkedListch.pdb
+/home/thedegeo/git/linkedListch/obj/Debug/net8.0/linkedListch.genruntimeconfig.cache
+/home/thedegeo/git/linkedListch/obj/Debug/net8.0/ref/linkedListch.dll
